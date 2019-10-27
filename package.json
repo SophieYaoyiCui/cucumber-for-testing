@@ -1,0 +1,26 @@
+{
+  "name": "cucumber-for-testing",
+  "version": "1.0.0",
+  "description": "This is a repo for the course Software Testing",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophieYaoyiCui/cucumber-for-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SophieYaoyiCui/cucumber-for-testing/issues"
+  },
+  "homepage": "https://github.com/SophieYaoyiCui/cucumber-for-testing#readme"
+}
